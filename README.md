@@ -1,4 +1,2 @@
-# Zomato_Analysis
-Used Zomato Restaurant dataset to find more insights about the Restaurant business.
-Is there a relation between cuisine, location, and cost?
-Explored the best expensive restaurants, hotels that are highest rated, easily accessible and largely voted
+# Zomato Analysis
+In-depth analysis of the Zomato Restaurant dataset seeks insights into the restaurant industry. Investigating links between cuisine, location, and cost, this study identifies top-tier expensive restaurants, highly-rated hotels, easily accessible venues, and those receiving significant votes.
